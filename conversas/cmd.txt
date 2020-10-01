@@ -1,0 +1,4 @@
+que horas são	asktime
+me diga as horas	asktime
+qual e a data de hoje	askdata
+me diga qual é a data de hoje	askdata	
