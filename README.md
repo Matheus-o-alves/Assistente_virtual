@@ -10,4 +10,4 @@ Assistente Virtual com Arduino para Automação Residencial
 
 * Speech Recognizer
 
-* Arudino / C++
+* Ardudino / C++
